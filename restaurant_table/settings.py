@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-bmaql*)f_aac-u*c_08ljtem-9d2kxc$#z^z2b!q@1@p-#2pym
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-  ALLOWED_HOSTS=['reservation2023-a9d6f10b6114.herokuapp.com', "localhost"]
+  ALLOWED_HOSTS=['reservation2023-a9d6f10b6114.herokuapp.com']
   #ALLOWED_HOSTS = ["reservation2023.herokuapp.com", "localhost"]
 
 
